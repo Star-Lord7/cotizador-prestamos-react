@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import logoReact from './assets/react.svg';
 import Header from './components/Header';
 import Button from './components/Button';
 import { formatearDinero, calcuarTotalPagar } from './helpers';
@@ -39,11 +40,7 @@ function App() {
 
   return (
     <div className="my-20 max-w-lg mx-auto bg-white shadow p-10">
-      <img
-        className="mx-auto w-20 h-20 mb-10"
-        src="/react.svg"   // 👈 desde public
-        alt="Logo Cotizador de Prestamos"
-      />
+      <img src={logoReact} alt="Logo Cotizador" className="mx-auto w-20 h-20 mb-10" />
       <Header />
       <div className='flex justify-between my-6'>
         <Button 
