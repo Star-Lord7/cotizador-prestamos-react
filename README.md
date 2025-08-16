@@ -1,12 +1,51 @@
-# React + Vite
+# 🚀 Proyecto React - [Nombre del Proyecto]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un proyecto personal para **reforzar mis conocimientos en React**, practicando componentes, hooks y estilizado con **Tailwind CSS**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tecnologías
 
-## Expanding the ESLint configuration
+- **React** ⚛️  
+- **Tailwind CSS** 🎨  
+- **JavaScript (ES6+)** 📝  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Objetivos de aprendizaje
+
+- Comprender y usar **componentes funcionales**  
+- Manejar el **estado con `useState`**  
+- Gestionar **efectos secundarios con `useEffect`**  
+- Aplicar **estilos rápidos y responsivos con Tailwind**  
+
+---
+
+## ✨ Funcionalidades
+
+- Componentes modulares y reutilizables  
+- Actualización dinámica de datos  
+- Estilizado moderno y responsivo  
+- Experiencia práctica reforzando conceptos clave de React  
+
+---
+
+## 🏆 Aprendizajes
+
+- Uso práctico de **hooks** para manejar estado y efectos  
+- Estructuración de un proyecto en React  
+- Aplicación de **Tailwind CSS** dentro del flujo de JSX  
+- Mayor confianza al trabajar con componentes y lógica de React  
+
+---
+
+## ⚡ Cómo correr el proyecto
+
+1. Instala las dependencias:
+   ```bash
+   npm install
+   
+1. Instala las dependencias:
+   ```bash
+   npm run dev
+
