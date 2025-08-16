@@ -1,5 +1,4 @@
-# 🚀 Proyecto React - [Nombre del Proyecto]
-
+# 🚀 Proyecto React - Cotizador de Prestámos
 Un proyecto personal para **reforzar mis conocimientos en React**, practicando componentes, hooks y estilizado con **Tailwind CSS**.  
 
 ---
@@ -45,7 +44,11 @@ Un proyecto personal para **reforzar mis conocimientos en React**, practicando c
    ```bash
    npm install
    
-1. Instala las dependencias:
+2. Inicia el proyecto:
    ```bash
    npm run dev
+   
+## 🌐 Demo
 
+La aplicación está desplegada en Netlify y se puede ver aquí:  
+https://cotizador-react-prestamos.netlify.app/
